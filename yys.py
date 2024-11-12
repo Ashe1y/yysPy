@@ -1,7 +1,6 @@
 import pyautogui as pg
 import cv2 as cv
 import time
-import os
 import numpy as np
 import random
 
